@@ -8,4 +8,7 @@ Spherical metadata injector script for image files.
 - Finally, the script automatically scans and apply to each image. You'll receive an notification when it's done.
 
 ### Support my work
+
+![Patreon](https://www.patreon.com/cw/u43114136)
+
 ![Buy Me a Coffee](https://buymeacoffee.com/ozbanatakan)
