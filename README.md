@@ -9,4 +9,4 @@ Spherical metadata injector script for image files.
 
 ### Support my work
 
-![Patreon](https://www.patreon.com/cw/u43114136)
+![Patreon](https://link.atakanozban.com/contribute)
